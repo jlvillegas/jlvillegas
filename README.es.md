@@ -80,7 +80,7 @@ flowchart LR
 <img src="https://skillicons.dev/icons?i=windows,linux,docker,azure,cloudflare,netlify,git,github,githubactions,vscode,react,ts,js,nodejs,postgres,tailwind,vite,html,css,py&perline=10" alt="Windows, Linux, Docker, Azure, Cloudflare, Netlify, Git, GitHub, GitHub Actions, VS Code, React, TypeScript, JavaScript, Node.js, PostgreSQL, Tailwind, Vite, HTML, CSS, Python">
 </p>
 
-**Redes:** Starlink · TP-Link Omada · MikroTik · Ubiquiti · cámaras Hikvision, Dahua y EZVIZ
+**Redes:** Starlink · TP-Link Omada · MikroTik · Ubiquiti · cámaras Hikvision, Dahua y EZVIZ<br>
 **Otros:** SAP ERP · DigitalOcean · n8n · API de Claude · API de Gemini
 
 ### 💼 Experiencia

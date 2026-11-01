@@ -25,6 +25,7 @@ I also **built and run in production** the clinic's management system — used e
 Now I'm growing into **cloud on Microsoft Azure** (AZ-900 and AI-901 certified).
 
 > 🎯 **Looking for remote roles:** IT Support / Help Desk · NOC · Network Support · Junior Cloud Administrator (Azure) · Technical Support Engineer
+>
 > 🕒 UTC-3 — only 1–2 hours from US Eastern time
 
 ### 🧰 What I bring
