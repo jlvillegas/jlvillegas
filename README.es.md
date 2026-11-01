@@ -96,7 +96,7 @@ flowchart LR
 - ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)** — oct. 2026 · [verificar](https://learn.microsoft.com/api/credentials/share/en-us/JorgeVillegas-6113/4644DE0052ADC6FE?sharingId=6314E6AE393F7D46)
 - ✅ **Microsoft Certified: Azure AI Fundamentals (AI-901)** — oct. 2026 · [verificar](https://learn.microsoft.com/api/credentials/share/en-us/JorgeVillegas-6113/A836E11048C2F42E?sharingId=6314E6AE393F7D46)
 - 📚 Estudiando: **AZ-104** (Azure Administrator) y **AI-103** (Azure AI Apps and Agents)
-- 🎓 Licenciatura en Informática, Universidad Siglo 21 — 2024–2027 · título intermedio: Analista Universitario en Sistemas de Computación
+- 🎓 Licenciatura en Informática, Universidad Siglo 21 (a distancia) — jul. 2024 – dic. 2027 (egreso previsto)
 - 🗣️ Español (nativo) · inglés (intermedio, practico todos los días)
 
 ### 📫 Contacto

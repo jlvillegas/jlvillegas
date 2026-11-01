@@ -118,7 +118,7 @@ flowchart LR
 - ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)** — Oct 2026 · [verify](https://learn.microsoft.com/api/credentials/share/en-us/JorgeVillegas-6113/4644DE0052ADC6FE?sharingId=6314E6AE393F7D46)
 - ✅ **Microsoft Certified: Azure AI Fundamentals (AI-901)** — Oct 2026 · [verify](https://learn.microsoft.com/api/credentials/share/en-us/JorgeVillegas-6113/A836E11048C2F42E?sharingId=6314E6AE393F7D46)
 - 📚 Studying: **AZ-104** (Azure Administrator) and **AI-103** (Azure AI Apps and Agents)
-- 🎓 Bachelor's in Computer Science (Licenciatura en Informática), Universidad Siglo 21 — 2024–2027 · intermediate degree: University Analyst in Computer Systems
+- 🎓 Bachelor's in Computer Science (Licenciatura en Informática), Universidad Siglo 21 (online) — Jul 2024 – expected Dec 2027
 - 🗣️ Spanish (native) · English (intermediate, practicing every day)
 
 ### 📫 Let's talk
